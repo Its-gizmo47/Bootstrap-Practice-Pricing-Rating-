@@ -1,0 +1,9 @@
+@media (min-width: 768px) {
+  .cards-container {
+    width: 800px;
+  }
+  .rating-container {
+    min-width: 600px;
+    width: 800px;
+  }
+}
